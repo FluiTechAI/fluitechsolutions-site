@@ -1,0 +1,62 @@
+<!-- politica-de-privacidade.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - FluiTech AI Solutions</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f9f9f9; }
+        h1, h2 { color: #333; }
+        p { color: #555; line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidade</h1>
+    <p>Última atualização: Fevereiro de 2025</p>
+    <p>A FluiTech AI Solutions valoriza sua privacidade. Esta Política descreve como coletamos, usamos e protegemos suas informações.</p>
+
+    <h2>Coleta de Dados</h2>
+    <p>Coletamos dados pessoais como nome, email e informações de uso quando você interage com nossos serviços.</p>
+
+    <h2>Uso das Informações</h2>
+    <p>Utilizamos suas informações para fornecer serviços, melhorar a experiência do usuário e enviar atualizações.</p>
+
+    <h2>Segurança</h2>
+    <p>Implementamos medidas de segurança para proteger seus dados contra acessos não autorizados.</p>
+
+    <h2>Contato</h2>
+    <p>Se tiver dúvidas, entre em contato via email: contato@fluitechsolutions.com</p>
+</body>
+</html>
+
+<!-- termos-de-servico.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termos de Serviço - FluiTech AI Solutions</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f9f9f9; }
+        h1, h2 { color: #333; }
+        p { color: #555; line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>Termos de Serviço</h1>
+    <p>Bem-vindo à FluiTech AI Solutions. Ao usar nossos serviços, você concorda com estes Termos.</p>
+
+    <h2>Uso dos Serviços</h2>
+    <p>Você deve seguir todas as políticas disponíveis em nossos serviços. Não use nossos serviços de maneira inadequada.</p>
+
+    <h2>Responsabilidades</h2>
+    <p>A FluiTech AI Solutions não se responsabiliza por danos resultantes do uso de nossos serviços.</p>
+
+    <h2>Alterações</h2>
+    <p>Podemos modificar estes Termos a qualquer momento. Notificaremos sobre alterações significativas.</p>
+
+    <h2>Contato</h2>
+    <p>Para mais informações, entre em contato: contato@fluitechsolutions.com</p>
+</body>
+</html>
